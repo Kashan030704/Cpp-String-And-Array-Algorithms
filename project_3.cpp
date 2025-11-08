@@ -1,7 +1,7 @@
-//Author: Kashan Khan
 #include <iostream>
 #include <cassert>
 
+//Author: Kashan Khan
 
 //First Function
 
@@ -69,6 +69,7 @@ void deallocate(double *&ptr, bool is_array, std::size_t capacity = 0) {
         ptr = nullptr;
     }
 }
+
 
 
 
