@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cmath>
+//Author: Kashan Khan
 //Grade Calculator
 
 //Function declaration
@@ -199,5 +200,6 @@ int main() {
 
 
 return 0;
+
 
 }
