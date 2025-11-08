@@ -3,6 +3,7 @@
 #include <cassert>
 #include <fstream>
 #include "p_4_header.hpp"
+
 //Author: Kashan Khan
 
 
@@ -179,5 +180,6 @@ std::size_t find( char *array[], std::size_t capacity, char const *str ) {
     delete [] word_array[0];
     delete [] word_array;
  }
+
 
 
